@@ -1,0 +1,2008 @@
+{
+  "name": "Taskbar Railway – real railway lines (station names, order, positions)",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "Open Database License (ODbL) 1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "copyrightUrl": "https://www.openstreetmap.org/copyright",
+  "note": "Derived database: extracted once from OpenStreetMap via the Overpass API and shared under the same licence. \"km\" is the straight-line distance from the first stop, not the track length.",
+  "lines": [
+    {
+      "id": "amsterdam",
+      "quelle": "OpenStreetMap, Relation 8466667",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Noord",
+          "lat": 52.4021571,
+          "lon": 4.932402,
+          "km": 0.0
+        },
+        {
+          "name": "Noorderpark",
+          "lat": 52.3886942,
+          "lon": 4.9181208,
+          "km": 1.78
+        },
+        {
+          "name": "Centraal Station",
+          "lat": 52.3792082,
+          "lon": 4.9008785,
+          "km": 3.36
+        },
+        {
+          "name": "Rokin",
+          "lat": 52.3705391,
+          "lon": 4.8925639,
+          "km": 4.48
+        },
+        {
+          "name": "Vijzelgracht",
+          "lat": 52.3606866,
+          "lon": 4.8910469,
+          "km": 5.58
+        },
+        {
+          "name": "De Pijp",
+          "lat": 52.3539585,
+          "lon": 4.8906476,
+          "km": 6.32
+        },
+        {
+          "name": "Europaplein",
+          "lat": 52.3411785,
+          "lon": 4.8915605,
+          "km": 7.75
+        },
+        {
+          "name": "Zuid",
+          "lat": 52.3391044,
+          "lon": 4.8717341,
+          "km": 9.11
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "quelle": "OpenStreetMap, Relation 1929070",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Oranienburg",
+          "lat": 52.7538009,
+          "lon": 13.2491709,
+          "km": 0.0
+        },
+        {
+          "name": "Lehnitz",
+          "lat": 52.7409728,
+          "lon": 13.2634744,
+          "km": 1.72
+        },
+        {
+          "name": "Borgsdorf",
+          "lat": 52.715214,
+          "lon": 13.2764576,
+          "km": 4.72
+        },
+        {
+          "name": "Birkenwerder",
+          "lat": 52.6882693,
+          "lon": 13.288626,
+          "km": 7.82
+        },
+        {
+          "name": "Hohen Neuendorf (b Berlin)",
+          "lat": 52.6686566,
+          "lon": 13.286948,
+          "km": 10.01
+        },
+        {
+          "name": "Frohnau",
+          "lat": 52.6322807,
+          "lon": 13.2902405,
+          "km": 14.06
+        },
+        {
+          "name": "Hermsdorf",
+          "lat": 52.6173097,
+          "lon": 13.30755,
+          "km": 16.09
+        },
+        {
+          "name": "Waidmannslust",
+          "lat": 52.6062369,
+          "lon": 13.3210671,
+          "km": 17.62
+        },
+        {
+          "name": "Wittenau",
+          "lat": 52.5970052,
+          "lon": 13.3341609,
+          "km": 18.98
+        },
+        {
+          "name": "Wilhelmsruh",
+          "lat": 52.5816602,
+          "lon": 13.3621312,
+          "km": 21.52
+        },
+        {
+          "name": "Schönholz",
+          "lat": 52.5712418,
+          "lon": 13.38128,
+          "km": 23.26
+        },
+        {
+          "name": "Wollankstraße",
+          "lat": 52.5648374,
+          "lon": 13.3927639,
+          "km": 24.31
+        },
+        {
+          "name": "Bornholmer Straße",
+          "lat": 52.5542239,
+          "lon": 13.3977372,
+          "km": 25.54
+        },
+        {
+          "name": "Gesundbrunnen",
+          "lat": 52.5493068,
+          "lon": 13.3890629,
+          "km": 26.34
+        },
+        {
+          "name": "Humboldthain",
+          "lat": 52.5447617,
+          "lon": 13.3792576,
+          "km": 27.18
+        },
+        {
+          "name": "Nordbahnhof",
+          "lat": 52.5326616,
+          "lon": 13.3869051,
+          "km": 28.62
+        },
+        {
+          "name": "Oranienburger Straße",
+          "lat": 52.5251817,
+          "lon": 13.3928834,
+          "km": 29.54
+        },
+        {
+          "name": "Friedrichstraße",
+          "lat": 52.5202346,
+          "lon": 13.3858855,
+          "km": 30.27
+        },
+        {
+          "name": "Brandenburger Tor",
+          "lat": 52.5164367,
+          "lon": 13.3809354,
+          "km": 30.81
+        },
+        {
+          "name": "Potsdamer Platz",
+          "lat": 52.5092642,
+          "lon": 13.3763912,
+          "km": 31.66
+        },
+        {
+          "name": "Anhalter Bahnhof",
+          "lat": 52.5034307,
+          "lon": 13.3813522,
+          "km": 32.39
+        },
+        {
+          "name": "Yorckstraße (Großgörschenstraße)",
+          "lat": 52.4917071,
+          "lon": 13.3672668,
+          "km": 34.01
+        },
+        {
+          "name": "Julius-Leber-Brücke",
+          "lat": 52.4864469,
+          "lon": 13.3610584,
+          "km": 34.73
+        },
+        {
+          "name": "Schöneberg",
+          "lat": 52.4789576,
+          "lon": 13.3512735,
+          "km": 35.79
+        },
+        {
+          "name": "Friedenau",
+          "lat": 52.4703962,
+          "lon": 13.3409754,
+          "km": 36.97
+        },
+        {
+          "name": "Feuerbachstraße",
+          "lat": 52.4637508,
+          "lon": 13.33267,
+          "km": 37.9
+        },
+        {
+          "name": "Rathaus Steglitz",
+          "lat": 52.4550521,
+          "lon": 13.3217782,
+          "km": 39.12
+        },
+        {
+          "name": "Botanischer Garten",
+          "lat": 52.447952,
+          "lon": 13.3069148,
+          "km": 40.4
+        },
+        {
+          "name": "Lichterfelde West",
+          "lat": 52.4432747,
+          "lon": 13.2932719,
+          "km": 41.46
+        },
+        {
+          "name": "Sundgauer Straße",
+          "lat": 52.4364446,
+          "lon": 13.2739864,
+          "km": 42.97
+        },
+        {
+          "name": "Zehlendorf",
+          "lat": 52.4309282,
+          "lon": 13.257755,
+          "km": 44.23
+        },
+        {
+          "name": "Mexikoplatz",
+          "lat": 52.4368079,
+          "lon": 13.2332646,
+          "km": 46.01
+        },
+        {
+          "name": "Schlachtensee",
+          "lat": 52.4400403,
+          "lon": 13.214813,
+          "km": 47.32
+        },
+        {
+          "name": "Nikolassee",
+          "lat": 52.4318965,
+          "lon": 13.1941445,
+          "km": 48.98
+        },
+        {
+          "name": "Wannsee",
+          "lat": 52.4211255,
+          "lon": 13.1792262,
+          "km": 50.55
+        }
+      ]
+    },
+    {
+      "id": "hamburg",
+      "quelle": "OpenStreetMap, Relation 1643221",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Barmbek",
+          "lat": 53.5872324,
+          "lon": 10.044343,
+          "km": 0.0
+        },
+        {
+          "name": "Saarlandstraße",
+          "lat": 53.5892594,
+          "lon": 10.031405,
+          "km": 0.88
+        },
+        {
+          "name": "Borgweg (Stadtpark)",
+          "lat": 53.5907941,
+          "lon": 10.0141221,
+          "km": 2.04
+        },
+        {
+          "name": "Sierichstraße",
+          "lat": 53.5904345,
+          "lon": 10.0010332,
+          "km": 2.9
+        },
+        {
+          "name": "Kellinghusenstraße",
+          "lat": 53.5888326,
+          "lon": 9.9906355,
+          "km": 3.61
+        },
+        {
+          "name": "Eppendorfer Baum",
+          "lat": 53.5837842,
+          "lon": 9.9851727,
+          "km": 4.28
+        },
+        {
+          "name": "Hoheluftbrücke",
+          "lat": 53.5775213,
+          "lon": 9.9760442,
+          "km": 5.2
+        },
+        {
+          "name": "Schlump",
+          "lat": 53.5678505,
+          "lon": 9.9698332,
+          "km": 6.35
+        },
+        {
+          "name": "Sternschanze (Messe)",
+          "lat": 53.5642268,
+          "lon": 9.9691713,
+          "km": 6.75
+        },
+        {
+          "name": "Feldstraße (Heiligengeistfeld)",
+          "lat": 53.5569025,
+          "lon": 9.9685864,
+          "km": 7.57
+        },
+        {
+          "name": "St. Pauli",
+          "lat": 53.5509202,
+          "lon": 9.9699837,
+          "km": 8.24
+        },
+        {
+          "name": "Landungsbrücken",
+          "lat": 53.5458494,
+          "lon": 9.9713191,
+          "km": 8.81
+        },
+        {
+          "name": "Baumwall (Elbphilharmonie)",
+          "lat": 53.5441961,
+          "lon": 9.9816326,
+          "km": 9.52
+        },
+        {
+          "name": "Rödingsmarkt",
+          "lat": 53.548151,
+          "lon": 9.9868606,
+          "km": 10.08
+        },
+        {
+          "name": "Rathaus",
+          "lat": 53.5503645,
+          "lon": 9.9940581,
+          "km": 10.61
+        },
+        {
+          "name": "Mönckebergstraße",
+          "lat": 53.5512618,
+          "lon": 10.001913,
+          "km": 11.14
+        },
+        {
+          "name": "Hauptbahnhof Süd",
+          "lat": 53.5521225,
+          "lon": 10.0095881,
+          "km": 11.66
+        },
+        {
+          "name": "Berliner Tor",
+          "lat": 53.5532204,
+          "lon": 10.0230766,
+          "km": 12.56
+        },
+        {
+          "name": "Lübecker Straße",
+          "lat": 53.5593924,
+          "lon": 10.0289096,
+          "km": 13.34
+        },
+        {
+          "name": "Uhlandstraße",
+          "lat": 53.5646933,
+          "lon": 10.0267757,
+          "km": 13.95
+        },
+        {
+          "name": "Mundsburg",
+          "lat": 53.5693576,
+          "lon": 10.0274913,
+          "km": 14.47
+        },
+        {
+          "name": "Hamburger Straße",
+          "lat": 53.5744785,
+          "lon": 10.0373319,
+          "km": 15.33
+        },
+        {
+          "name": "Dehnhaide",
+          "lat": 53.5789351,
+          "lon": 10.0408403,
+          "km": 15.88
+        },
+        {
+          "name": "Barmbek",
+          "lat": 53.5873586,
+          "lon": 10.0444067,
+          "km": 16.85
+        },
+        {
+          "name": "Habichtstraße",
+          "lat": 53.5935736,
+          "lon": 10.0526241,
+          "km": 17.73
+        },
+        {
+          "name": "Wandsbek-Gartenstadt",
+          "lat": 53.5922801,
+          "lon": 10.0742132,
+          "km": 19.16
+        }
+      ]
+    },
+    {
+      "id": "koeln",
+      "quelle": "OpenStreetMap, Relation 1988261",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Frechen-Königsdorf",
+          "lat": 50.9363499,
+          "lon": 6.7776355,
+          "km": 0.0
+        },
+        {
+          "name": "Köln-Weiden West",
+          "lat": 50.9408467,
+          "lon": 6.8155288,
+          "km": 2.7
+        },
+        {
+          "name": "Lövenich",
+          "lat": 50.9428622,
+          "lon": 6.8347054,
+          "km": 4.06
+        },
+        {
+          "name": "Köln-Müngersdorf/Technologiepark",
+          "lat": 50.9483536,
+          "lon": 6.8883356,
+          "km": 7.87
+        },
+        {
+          "name": "Köln-Ehrenfeld",
+          "lat": 50.9514594,
+          "lon": 6.9173723,
+          "km": 9.93
+        },
+        {
+          "name": "Köln Hansaring",
+          "lat": 50.9490645,
+          "lon": 6.9525612,
+          "km": 12.41
+        },
+        {
+          "name": "Köln Messe/Deutz",
+          "lat": 50.941268,
+          "lon": 6.9746093,
+          "km": 14.18
+        },
+        {
+          "name": "Köln Trimbornstraße",
+          "lat": 50.9357377,
+          "lon": 6.9970603,
+          "km": 15.87
+        },
+        {
+          "name": "Köln Airport-Businesspark",
+          "lat": 50.9102848,
+          "lon": 7.0445712,
+          "km": 20.24
+        },
+        {
+          "name": "Köln Steinstraße",
+          "lat": 50.8952625,
+          "lon": 7.05754,
+          "km": 22.15
+        },
+        {
+          "name": "Porz (Rhein)",
+          "lat": 50.8830745,
+          "lon": 7.0645232,
+          "km": 23.59
+        },
+        {
+          "name": "Porz-Wahn",
+          "lat": 50.857619,
+          "lon": 7.0795041,
+          "km": 26.61
+        },
+        {
+          "name": "Spich",
+          "lat": 50.8268646,
+          "lon": 7.1146142,
+          "km": 30.82
+        },
+        {
+          "name": "Troisdorf",
+          "lat": 50.8144995,
+          "lon": 7.1489767,
+          "km": 33.6
+        },
+        {
+          "name": "Siegburg/Bonn",
+          "lat": 50.7939197,
+          "lon": 7.2029353,
+          "km": 38.03
+        },
+        {
+          "name": "Hennef (Sieg)",
+          "lat": 50.7733399,
+          "lon": 7.2843942,
+          "km": 44.2
+        },
+        {
+          "name": "Hennef Im Siegbogen",
+          "lat": 50.7731349,
+          "lon": 7.3131332,
+          "km": 46.22
+        },
+        {
+          "name": "Blankenberg (Sieg)",
+          "lat": 50.7684014,
+          "lon": 7.3488025,
+          "km": 48.78
+        },
+        {
+          "name": "Merten (Sieg)",
+          "lat": 50.77018,
+          "lon": 7.3862428,
+          "km": 51.42
+        },
+        {
+          "name": "Eitorf",
+          "lat": 50.7735283,
+          "lon": 7.4476132,
+          "km": 55.75
+        },
+        {
+          "name": "Herchen",
+          "lat": 50.770949,
+          "lon": 7.5216496,
+          "km": 60.97
+        },
+        {
+          "name": "Dattenfeld (Sieg)",
+          "lat": 50.8092172,
+          "lon": 7.5462884,
+          "km": 65.56
+        },
+        {
+          "name": "Schladern (Sieg)",
+          "lat": 50.807015,
+          "lon": 7.5920991,
+          "km": 68.79
+        },
+        {
+          "name": "Rosbach (Sieg)",
+          "lat": 50.79677,
+          "lon": 7.6086824,
+          "km": 70.42
+        },
+        {
+          "name": "Au (Sieg)",
+          "lat": 50.7738792,
+          "lon": 7.6565986,
+          "km": 74.64
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "quelle": "OpenStreetMap, Relation 102769",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Hammersmith",
+          "lat": 51.4937016,
+          "lon": -0.2249929,
+          "km": 0.0
+        },
+        {
+          "name": "Goldhawk Road",
+          "lat": 51.5019688,
+          "lon": -0.2266403,
+          "km": 0.93
+        },
+        {
+          "name": "Shepherd's Bush Market",
+          "lat": 51.5068751,
+          "lon": -0.2261794,
+          "km": 1.47
+        },
+        {
+          "name": "Wood Lane",
+          "lat": 51.5099533,
+          "lon": -0.2240127,
+          "km": 1.85
+        },
+        {
+          "name": "Latimer Road",
+          "lat": 51.5137126,
+          "lon": -0.2175169,
+          "km": 2.46
+        },
+        {
+          "name": "Ladbroke Grove",
+          "lat": 51.5173215,
+          "lon": -0.2109222,
+          "km": 3.07
+        },
+        {
+          "name": "Westbourne Park",
+          "lat": 51.5209016,
+          "lon": -0.2007514,
+          "km": 3.88
+        },
+        {
+          "name": "Royal Oak",
+          "lat": 51.5189969,
+          "lon": -0.1866198,
+          "km": 4.88
+        },
+        {
+          "name": "Paddington",
+          "lat": 51.518488,
+          "lon": -0.178584,
+          "km": 5.44
+        },
+        {
+          "name": "Edgware Road",
+          "lat": 51.5203099,
+          "lon": -0.1668361,
+          "km": 6.27
+        },
+        {
+          "name": "Baker Street",
+          "lat": 51.5222984,
+          "lon": -0.1566779,
+          "km": 7.01
+        },
+        {
+          "name": "Great Portland Street",
+          "lat": 51.5238238,
+          "lon": -0.1438906,
+          "km": 7.91
+        },
+        {
+          "name": "Euston Square",
+          "lat": 51.525829,
+          "lon": -0.1352346,
+          "km": 8.55
+        },
+        {
+          "name": "King's Cross St Pancras",
+          "lat": 51.5297729,
+          "lon": -0.1246817,
+          "km": 9.4
+        },
+        {
+          "name": "Farringdon",
+          "lat": 51.5208236,
+          "lon": -0.1052085,
+          "km": 11.08
+        },
+        {
+          "name": "Barbican",
+          "lat": 51.5202304,
+          "lon": -0.0987257,
+          "km": 11.53
+        },
+        {
+          "name": "Moorgate",
+          "lat": 51.5183795,
+          "lon": -0.0891531,
+          "km": 12.22
+        },
+        {
+          "name": "Liverpool Street",
+          "lat": 51.5172123,
+          "lon": -0.0825435,
+          "km": 12.7
+        },
+        {
+          "name": "Aldgate",
+          "lat": 51.5142891,
+          "lon": -0.075594,
+          "km": 13.28
+        },
+        {
+          "name": "Tower Hill",
+          "lat": 51.5097755,
+          "lon": -0.0766185,
+          "km": 13.79
+        },
+        {
+          "name": "Monument",
+          "lat": 51.5106943,
+          "lon": -0.0860638,
+          "km": 14.45
+        },
+        {
+          "name": "Cannon Street",
+          "lat": 51.5114806,
+          "lon": -0.0903013,
+          "km": 14.75
+        },
+        {
+          "name": "Mansion House",
+          "lat": 51.5118203,
+          "lon": -0.0952115,
+          "km": 15.1
+        },
+        {
+          "name": "Blackfriars",
+          "lat": 51.5115051,
+          "lon": -0.1040017,
+          "km": 15.71
+        },
+        {
+          "name": "Temple",
+          "lat": 51.510994,
+          "lon": -0.1142768,
+          "km": 16.42
+        },
+        {
+          "name": "Embankment",
+          "lat": 51.5072768,
+          "lon": -0.1223154,
+          "km": 17.11
+        },
+        {
+          "name": "Westminster",
+          "lat": 51.5011187,
+          "lon": -0.1251817,
+          "km": 17.82
+        },
+        {
+          "name": "St. James's Park",
+          "lat": 51.4991032,
+          "lon": -0.1350491,
+          "km": 18.54
+        },
+        {
+          "name": "Victoria",
+          "lat": 51.4963251,
+          "lon": -0.144097,
+          "km": 19.24
+        },
+        {
+          "name": "Sloane Square",
+          "lat": 51.4921443,
+          "lon": -0.1555588,
+          "km": 20.16
+        },
+        {
+          "name": "South Kensington",
+          "lat": 51.4940331,
+          "lon": -0.1730526,
+          "km": 21.39
+        },
+        {
+          "name": "Gloucester Road",
+          "lat": 51.4947089,
+          "lon": -0.184315,
+          "km": 22.17
+        },
+        {
+          "name": "High Street Kensington",
+          "lat": 51.5001747,
+          "lon": -0.1919086,
+          "km": 22.98
+        },
+        {
+          "name": "Notting Hill Gate",
+          "lat": 51.5086966,
+          "lon": -0.1960119,
+          "km": 23.97
+        },
+        {
+          "name": "Bayswater",
+          "lat": 51.5123038,
+          "lon": -0.188251,
+          "km": 24.64
+        },
+        {
+          "name": "Paddington",
+          "lat": 51.5154494,
+          "lon": -0.1754622,
+          "km": 25.59
+        },
+        {
+          "name": "Edgware Road",
+          "lat": 51.5203846,
+          "lon": -0.1662143,
+          "km": 26.43
+        }
+      ]
+    },
+    {
+      "id": "muenchen",
+      "quelle": "OpenStreetMap, Relation 1843975",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Flughafen München",
+          "lat": 48.3538234,
+          "lon": 11.7861127,
+          "km": 0.0
+        },
+        {
+          "name": "München Flughafen Besucherpark",
+          "lat": 48.3521835,
+          "lon": 11.7641112,
+          "km": 1.64
+        },
+        {
+          "name": "Hallbergmoos",
+          "lat": 48.3093506,
+          "lon": 11.7143659,
+          "km": 7.65
+        },
+        {
+          "name": "Ismaning",
+          "lat": 48.2258051,
+          "lon": 11.6793944,
+          "km": 17.3
+        },
+        {
+          "name": "Unterföhring",
+          "lat": 48.1900748,
+          "lon": 11.6467247,
+          "km": 21.95
+        },
+        {
+          "name": "Johanneskirchen",
+          "lat": 48.1676051,
+          "lon": 11.6459355,
+          "km": 24.45
+        },
+        {
+          "name": "Englschalking",
+          "lat": 48.1567548,
+          "lon": 11.6483286,
+          "km": 25.67
+        },
+        {
+          "name": "Daglfing",
+          "lat": 48.1496149,
+          "lon": 11.6492473,
+          "km": 26.47
+        },
+        {
+          "name": "Leuchtenbergring",
+          "lat": 48.134493,
+          "lon": 11.6164952,
+          "km": 29.42
+        },
+        {
+          "name": "Ostbahnhof",
+          "lat": 48.1278335,
+          "lon": 11.6050371,
+          "km": 30.55
+        },
+        {
+          "name": "Rosenheimer Platz",
+          "lat": 48.1292383,
+          "lon": 11.5931428,
+          "km": 31.44
+        },
+        {
+          "name": "Isartor",
+          "lat": 48.1342129,
+          "lon": 11.5832438,
+          "km": 32.36
+        },
+        {
+          "name": "Marienplatz",
+          "lat": 48.1371181,
+          "lon": 11.5755711,
+          "km": 33.02
+        },
+        {
+          "name": "Karlsplatz (Stachus)",
+          "lat": 48.1395114,
+          "lon": 11.5657861,
+          "km": 33.79
+        },
+        {
+          "name": "München Hauptbahnhof (tief)",
+          "lat": 48.1412644,
+          "lon": 11.5602443,
+          "km": 34.25
+        },
+        {
+          "name": "Hackerbrücke",
+          "lat": 48.1420273,
+          "lon": 11.5485943,
+          "km": 35.12
+        },
+        {
+          "name": "Donnersbergerbrücke",
+          "lat": 48.142813,
+          "lon": 11.5365181,
+          "km": 36.02
+        },
+        {
+          "name": "Hirschgarten",
+          "lat": 48.1436135,
+          "lon": 11.5194844,
+          "km": 37.28
+        },
+        {
+          "name": "Laim",
+          "lat": 48.144647,
+          "lon": 11.5029582,
+          "km": 38.51
+        },
+        {
+          "name": "Pasing",
+          "lat": 48.1500098,
+          "lon": 11.4616573,
+          "km": 41.64
+        },
+        {
+          "name": "Westkreuz",
+          "lat": 48.1490102,
+          "lon": 11.4437954,
+          "km": 42.97
+        },
+        {
+          "name": "Neuaubing",
+          "lat": 48.1417119,
+          "lon": 11.422076,
+          "km": 44.77
+        },
+        {
+          "name": "Freiham",
+          "lat": 48.1400248,
+          "lon": 11.4100615,
+          "km": 45.68
+        },
+        {
+          "name": "Harthaus",
+          "lat": 48.1334606,
+          "lon": 11.387699,
+          "km": 47.49
+        },
+        {
+          "name": "Germering-Unterpfaffenhofen",
+          "lat": 48.1289226,
+          "lon": 11.3640007,
+          "km": 49.32
+        },
+        {
+          "name": "Geisenbrunn",
+          "lat": 48.1090798,
+          "lon": 11.3250072,
+          "km": 52.96
+        },
+        {
+          "name": "Gilching-Argelsried",
+          "lat": 48.1058168,
+          "lon": 11.2997808,
+          "km": 54.87
+        },
+        {
+          "name": "Neugilching",
+          "lat": 48.0991627,
+          "lon": 11.2889529,
+          "km": 55.96
+        },
+        {
+          "name": "Weßling",
+          "lat": 48.0774861,
+          "lon": 11.2520768,
+          "km": 59.61
+        },
+        {
+          "name": "Steinebach",
+          "lat": 48.060953,
+          "lon": 11.2065528,
+          "km": 63.46
+        },
+        {
+          "name": "Seefeld-Hechendorf",
+          "lat": 48.0415902,
+          "lon": 11.1988232,
+          "km": 65.69
+        },
+        {
+          "name": "Herrsching",
+          "lat": 47.9989875,
+          "lon": 11.1707001,
+          "km": 70.87
+        }
+      ]
+    },
+    {
+      "id": "newyork",
+      "quelle": "OpenStreetMap, Relation 9699137",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "34th Street–Hudson Yards",
+          "lat": 40.7558838,
+          "lon": -74.0018288,
+          "km": 0.0
+        },
+        {
+          "name": "Times Square–42nd Street",
+          "lat": 40.7550921,
+          "lon": -73.9868471,
+          "km": 1.26
+        },
+        {
+          "name": "5th Avenue",
+          "lat": 40.7533536,
+          "lon": -73.9810018,
+          "km": 1.79
+        },
+        {
+          "name": "Grand Central–42nd Street",
+          "lat": 40.7510515,
+          "lon": -73.9752191,
+          "km": 2.34
+        },
+        {
+          "name": "Vernon Boulevard–Jackson Avenue",
+          "lat": 40.7423997,
+          "lon": -73.9524256,
+          "km": 4.49
+        },
+        {
+          "name": "Hunters Point Avenue",
+          "lat": 40.7424468,
+          "lon": -73.9478826,
+          "km": 4.87
+        },
+        {
+          "name": "Court Square",
+          "lat": 40.747788,
+          "lon": -73.9449806,
+          "km": 5.52
+        },
+        {
+          "name": "Queensboro Plaza",
+          "lat": 40.7502352,
+          "lon": -73.9394994,
+          "km": 6.05
+        },
+        {
+          "name": "33rd Street–Rawson Street",
+          "lat": 40.7444369,
+          "lon": -73.929977,
+          "km": 7.08
+        },
+        {
+          "name": "40th Street–Lowery Street",
+          "lat": 40.7436332,
+          "lon": -73.9230063,
+          "km": 7.68
+        },
+        {
+          "name": "46th Street–Bliss Street",
+          "lat": 40.7429825,
+          "lon": -73.9174029,
+          "km": 8.15
+        },
+        {
+          "name": "52nd Street–Lincoln Avenue",
+          "lat": 40.7443991,
+          "lon": -73.9116493,
+          "km": 8.66
+        },
+        {
+          "name": "61st Street–Woodside",
+          "lat": 40.7456722,
+          "lon": -73.9019624,
+          "km": 9.49
+        },
+        {
+          "name": "69th Street",
+          "lat": 40.7463989,
+          "lon": -73.895406,
+          "km": 10.05
+        },
+        {
+          "name": "74th Street–Broadway",
+          "lat": 40.7469296,
+          "lon": -73.8903683,
+          "km": 10.48
+        },
+        {
+          "name": "82nd Street–Jackson Heights",
+          "lat": 40.7477283,
+          "lon": -73.8827704,
+          "km": 11.12
+        },
+        {
+          "name": "90th Street–Elmhurst Avenue",
+          "lat": 40.7484737,
+          "lon": -73.8756706,
+          "km": 11.73
+        },
+        {
+          "name": "Junction Boulevard",
+          "lat": 40.7491866,
+          "lon": -73.8685671,
+          "km": 12.33
+        },
+        {
+          "name": "103rd Street–Corona Plaza",
+          "lat": 40.7499445,
+          "lon": -73.8616608,
+          "km": 12.92
+        },
+        {
+          "name": "111th Street",
+          "lat": 40.7519557,
+          "lon": -73.8543905,
+          "km": 13.57
+        },
+        {
+          "name": "Mets–Willets Point",
+          "lat": 40.7548357,
+          "lon": -73.8445965,
+          "km": 14.46
+        },
+        {
+          "name": "Flushing–Main Street",
+          "lat": 40.759891,
+          "lon": -73.829108,
+          "km": 15.88
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "quelle": "OpenStreetMap, Relation 123784",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Château de Vincennes",
+          "lat": 48.8445898,
+          "lon": 2.4389109,
+          "km": 0.0
+        },
+        {
+          "name": "Bérault",
+          "lat": 48.8454411,
+          "lon": 2.4293029,
+          "km": 0.71
+        },
+        {
+          "name": "Saint-Mandé",
+          "lat": 48.8463799,
+          "lon": 2.418708,
+          "km": 1.49
+        },
+        {
+          "name": "Porte de Vincennes",
+          "lat": 48.8474034,
+          "lon": 2.4073617,
+          "km": 2.33
+        },
+        {
+          "name": "Nation",
+          "lat": 48.8478365,
+          "lon": 2.3960928,
+          "km": 3.16
+        },
+        {
+          "name": "Reuilly - Diderot",
+          "lat": 48.8471527,
+          "lon": 2.3849968,
+          "km": 3.97
+        },
+        {
+          "name": "Gare de Lyon",
+          "lat": 48.8458762,
+          "lon": 2.3737786,
+          "km": 4.8
+        },
+        {
+          "name": "Bastille",
+          "lat": 48.8520225,
+          "lon": 2.3686803,
+          "km": 5.58
+        },
+        {
+          "name": "Saint-Paul",
+          "lat": 48.8553907,
+          "lon": 2.3604173,
+          "km": 6.29
+        },
+        {
+          "name": "Hôtel de Ville",
+          "lat": 48.8573621,
+          "lon": 2.3520804,
+          "km": 6.94
+        },
+        {
+          "name": "Châtelet",
+          "lat": 48.8592208,
+          "lon": 2.3460759,
+          "km": 7.43
+        },
+        {
+          "name": "Louvre - Rivoli",
+          "lat": 48.8608148,
+          "lon": 2.3411352,
+          "km": 7.83
+        },
+        {
+          "name": "Palais Royal - Musée du Louvre",
+          "lat": 48.8624011,
+          "lon": 2.3363844,
+          "km": 8.22
+        },
+        {
+          "name": "Tuileries",
+          "lat": 48.8645203,
+          "lon": 2.329672,
+          "km": 8.76
+        },
+        {
+          "name": "Concorde",
+          "lat": 48.8662221,
+          "lon": 2.324434,
+          "km": 9.19
+        },
+        {
+          "name": "Champs-Élysées - Clemenceau",
+          "lat": 48.8675041,
+          "lon": 2.3140789,
+          "km": 9.96
+        },
+        {
+          "name": "Franklin D. Roosevelt",
+          "lat": 48.8696502,
+          "lon": 2.3080536,
+          "km": 10.46
+        },
+        {
+          "name": "George V",
+          "lat": 48.8720888,
+          "lon": 2.300428,
+          "km": 11.08
+        },
+        {
+          "name": "Charles de Gaulle - Étoile",
+          "lat": 48.874605,
+          "lon": 2.2948758,
+          "km": 11.58
+        },
+        {
+          "name": "Argentine",
+          "lat": 48.8755232,
+          "lon": 2.2895868,
+          "km": 11.98
+        },
+        {
+          "name": "Porte Maillot",
+          "lat": 48.8781955,
+          "lon": 2.2814369,
+          "km": 12.64
+        },
+        {
+          "name": "Les Sablons",
+          "lat": 48.8811252,
+          "lon": 2.2716674,
+          "km": 13.43
+        },
+        {
+          "name": "Pont de Neuilly",
+          "lat": 48.8848087,
+          "lon": 2.259972,
+          "km": 14.38
+        },
+        {
+          "name": "Esplanade de La Défense",
+          "lat": 48.8882638,
+          "lon": 2.2496022,
+          "km": 15.23
+        },
+        {
+          "name": "La Défense - Grande Arche",
+          "lat": 48.8921061,
+          "lon": 2.2381442,
+          "km": 16.17
+        }
+      ]
+    },
+    {
+      "id": "rheinmain",
+      "quelle": "OpenStreetMap, Relation 27605",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Wiesbaden Hbf",
+          "lat": 50.0703738,
+          "lon": 8.244014,
+          "km": 0.0
+        },
+        {
+          "name": "Wiesbaden Ost",
+          "lat": 50.0412219,
+          "lon": 8.2564366,
+          "km": 3.36
+        },
+        {
+          "name": "Mainz-Kastel",
+          "lat": 50.0073879,
+          "lon": 8.2819768,
+          "km": 7.54
+        },
+        {
+          "name": "Hochheim(Main)",
+          "lat": 50.0042771,
+          "lon": 8.3502661,
+          "km": 12.43
+        },
+        {
+          "name": "Flörsheim(Main)",
+          "lat": 50.0171298,
+          "lon": 8.4309987,
+          "km": 18.38
+        },
+        {
+          "name": "Eddersheim",
+          "lat": 50.0391959,
+          "lon": 8.456442,
+          "km": 21.43
+        },
+        {
+          "name": "Hattersheim (Main)",
+          "lat": 50.0675638,
+          "lon": 8.4893708,
+          "km": 25.37
+        },
+        {
+          "name": "Frankfurt am Main Sindlingen",
+          "lat": 50.0871086,
+          "lon": 8.5118312,
+          "km": 28.07
+        },
+        {
+          "name": "Frankfurt-Höchst Farbwerke",
+          "lat": 50.0989962,
+          "lon": 8.529699,
+          "km": 29.9
+        },
+        {
+          "name": "Frankfurt-Höchst",
+          "lat": 50.1024874,
+          "lon": 8.5427824,
+          "km": 30.91
+        },
+        {
+          "name": "Nied",
+          "lat": 50.1025428,
+          "lon": 8.5706902,
+          "km": 32.9
+        },
+        {
+          "name": "Griesheim",
+          "lat": 50.0942787,
+          "lon": 8.6056226,
+          "km": 35.56
+        },
+        {
+          "name": "Hauptbahnhof (tief)",
+          "lat": 50.1070899,
+          "lon": 8.6621788,
+          "km": 39.84
+        },
+        {
+          "name": "Taunusanlage",
+          "lat": 50.1136432,
+          "lon": 8.6690202,
+          "km": 40.71
+        },
+        {
+          "name": "Hauptwache",
+          "lat": 50.1139672,
+          "lon": 8.6782794,
+          "km": 41.38
+        },
+        {
+          "name": "Konstablerwache",
+          "lat": 50.1145965,
+          "lon": 8.6870331,
+          "km": 42.0
+        },
+        {
+          "name": "Ostendstraße",
+          "lat": 50.1128475,
+          "lon": 8.6965549,
+          "km": 42.71
+        },
+        {
+          "name": "Mühlberg",
+          "lat": 50.1017484,
+          "lon": 8.7008501,
+          "km": 43.98
+        },
+        {
+          "name": "Offenbach (Main) Kaiserlei",
+          "lat": 50.105218,
+          "lon": 8.7395198,
+          "km": 46.77
+        },
+        {
+          "name": "Ledermuseum",
+          "lat": 50.1059227,
+          "lon": 8.750309,
+          "km": 47.54
+        },
+        {
+          "name": "Marktplatz",
+          "lat": 50.1058635,
+          "lon": 8.7633346,
+          "km": 48.47
+        },
+        {
+          "name": "Offenbach (Main) Ost",
+          "lat": 50.1026332,
+          "lon": 8.7847944,
+          "km": 50.04
+        },
+        {
+          "name": "Offenbach-Bieber",
+          "lat": 50.0904837,
+          "lon": 8.8084633,
+          "km": 52.2
+        },
+        {
+          "name": "Offenbach-Waldhof",
+          "lat": 50.0816825,
+          "lon": 8.8288376,
+          "km": 53.96
+        },
+        {
+          "name": "Obertshausen",
+          "lat": 50.071807,
+          "lon": 8.8539071,
+          "km": 56.05
+        },
+        {
+          "name": "Rodgau-Weiskirchen",
+          "lat": 50.0528528,
+          "lon": 8.8777789,
+          "km": 58.76
+        },
+        {
+          "name": "Rodgau-Hainhausen",
+          "lat": 50.0383708,
+          "lon": 8.8759241,
+          "km": 60.38
+        },
+        {
+          "name": "Rodgau-Jügesheim",
+          "lat": 50.0252406,
+          "lon": 8.8790204,
+          "km": 61.86
+        },
+        {
+          "name": "Rodgau-Dudenhofen",
+          "lat": 50.0112663,
+          "lon": 8.884196,
+          "km": 63.45
+        },
+        {
+          "name": "Rodgau-Nieder-Roden",
+          "lat": 49.9968614,
+          "lon": 8.8697157,
+          "km": 65.36
+        },
+        {
+          "name": "Rodgau-Rollwald",
+          "lat": 49.9880606,
+          "lon": 8.8464719,
+          "km": 67.29
+        },
+        {
+          "name": "Rödermark-Ober Roden",
+          "lat": 49.9733988,
+          "lon": 8.8290026,
+          "km": 69.34
+        }
+      ]
+    },
+    {
+      "id": "tokio",
+      "quelle": "OpenStreetMap, Relation 1972920",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Shinagawa",
+          "lat": 35.628654,
+          "lon": 139.7385067,
+          "km": 0.0
+        },
+        {
+          "name": "Osaki",
+          "lat": 35.6194747,
+          "lon": 139.728663,
+          "km": 1.35
+        },
+        {
+          "name": "Gotanda",
+          "lat": 35.6262242,
+          "lon": 139.7235645,
+          "km": 2.23
+        },
+        {
+          "name": "Meguro",
+          "lat": 35.6340624,
+          "lon": 139.7156689,
+          "km": 3.36
+        },
+        {
+          "name": "Ebisu",
+          "lat": 35.6464034,
+          "lon": 139.7101042,
+          "km": 4.82
+        },
+        {
+          "name": "Shibuya",
+          "lat": 35.6580215,
+          "lon": 139.7015858,
+          "km": 6.33
+        },
+        {
+          "name": "Harajuku",
+          "lat": 35.6702225,
+          "lon": 139.7023701,
+          "km": 7.68
+        },
+        {
+          "name": "Yoyogi",
+          "lat": 35.6839356,
+          "lon": 139.7019863,
+          "km": 9.21
+        },
+        {
+          "name": "Shinjuku",
+          "lat": 35.6889594,
+          "lon": 139.7002855,
+          "km": 9.79
+        },
+        {
+          "name": "Shin-Ōkubo",
+          "lat": 35.7013028,
+          "lon": 139.7001876,
+          "km": 11.16
+        },
+        {
+          "name": "Takadanobaba",
+          "lat": 35.7126962,
+          "lon": 139.7035866,
+          "km": 12.47
+        },
+        {
+          "name": "Mejiro",
+          "lat": 35.7212053,
+          "lon": 139.7064126,
+          "km": 13.45
+        },
+        {
+          "name": "Ikebukuro",
+          "lat": 35.730257,
+          "lon": 139.710949,
+          "km": 14.53
+        },
+        {
+          "name": "Otsuka",
+          "lat": 35.7317315,
+          "lon": 139.7286102,
+          "km": 16.13
+        },
+        {
+          "name": "Sugamo",
+          "lat": 35.7334579,
+          "lon": 139.7394013,
+          "km": 17.13
+        },
+        {
+          "name": "Komagome",
+          "lat": 35.7366191,
+          "lon": 139.747219,
+          "km": 17.92
+        },
+        {
+          "name": "Tabata",
+          "lat": 35.7373845,
+          "lon": 139.7617238,
+          "km": 19.23
+        },
+        {
+          "name": "Nishi-Nippori",
+          "lat": 35.7322151,
+          "lon": 139.766696,
+          "km": 19.96
+        },
+        {
+          "name": "Nippori",
+          "lat": 35.7279885,
+          "lon": 139.7704317,
+          "km": 20.54
+        },
+        {
+          "name": "Uguisudani",
+          "lat": 35.7217118,
+          "lon": 139.7779296,
+          "km": 21.51
+        },
+        {
+          "name": "Ueno",
+          "lat": 35.7135763,
+          "lon": 139.7761427,
+          "km": 22.43
+        },
+        {
+          "name": "Okachimachi",
+          "lat": 35.7069502,
+          "lon": 139.7746504,
+          "km": 23.18
+        },
+        {
+          "name": "Akihabara",
+          "lat": 35.6983647,
+          "lon": 139.7730592,
+          "km": 24.14
+        },
+        {
+          "name": "Kanda",
+          "lat": 35.6917689,
+          "lon": 139.7710125,
+          "km": 24.9
+        },
+        {
+          "name": "Tokyo",
+          "lat": 35.681244,
+          "lon": 139.7666095,
+          "km": 26.13
+        },
+        {
+          "name": "Yurakucho",
+          "lat": 35.6749429,
+          "lon": 139.7630598,
+          "km": 26.9
+        },
+        {
+          "name": "Shimbashi",
+          "lat": 35.6661629,
+          "lon": 139.7581443,
+          "km": 27.98
+        },
+        {
+          "name": "Hamamatsucho",
+          "lat": 35.6551083,
+          "lon": 139.7570791,
+          "km": 29.21
+        },
+        {
+          "name": "Tamachi",
+          "lat": 35.6457199,
+          "lon": 139.7476996,
+          "km": 30.55
+        },
+        {
+          "name": "Takanawa Gateway",
+          "lat": 35.6354057,
+          "lon": 139.7406431,
+          "km": 31.87
+        }
+      ]
+    },
+    {
+      "id": "wien",
+      "quelle": "OpenStreetMap, Relation 2852864",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Hütteldorf",
+          "lat": 48.1969024,
+          "lon": 16.2608061,
+          "km": 0.0
+        },
+        {
+          "name": "Ober St. Veit",
+          "lat": 48.1922243,
+          "lon": 16.276164,
+          "km": 1.25
+        },
+        {
+          "name": "Unter St. Veit",
+          "lat": 48.1911075,
+          "lon": 16.2859853,
+          "km": 1.99
+        },
+        {
+          "name": "Braunschweiggasse",
+          "lat": 48.1893936,
+          "lon": 16.2958101,
+          "km": 2.74
+        },
+        {
+          "name": "Hietzing",
+          "lat": 48.1875686,
+          "lon": 16.3045733,
+          "km": 3.42
+        },
+        {
+          "name": "Schönbrunn",
+          "lat": 48.1860335,
+          "lon": 16.3189326,
+          "km": 4.5
+        },
+        {
+          "name": "Meidling Hauptstraße",
+          "lat": 48.1835623,
+          "lon": 16.3279142,
+          "km": 5.22
+        },
+        {
+          "name": "Längenfeldgasse",
+          "lat": 48.1848578,
+          "lon": 16.3350181,
+          "km": 5.77
+        },
+        {
+          "name": "Margaretengürtel",
+          "lat": 48.1884721,
+          "lon": 16.3430353,
+          "km": 6.49
+        },
+        {
+          "name": "Pilgramgasse",
+          "lat": 48.1921234,
+          "lon": 16.3543024,
+          "km": 7.41
+        },
+        {
+          "name": "Kettenbrückengasse",
+          "lat": 48.1966151,
+          "lon": 16.3580661,
+          "km": 7.99
+        },
+        {
+          "name": "Karlsplatz",
+          "lat": 48.2003309,
+          "lon": 16.3695766,
+          "km": 8.93
+        },
+        {
+          "name": "Stadtpark",
+          "lat": 48.2028759,
+          "lon": 16.3797386,
+          "km": 9.74
+        },
+        {
+          "name": "Landstraße",
+          "lat": 48.2068876,
+          "lon": 16.3849393,
+          "km": 10.33
+        },
+        {
+          "name": "Schwedenplatz",
+          "lat": 48.2117626,
+          "lon": 16.3786966,
+          "km": 11.04
+        },
+        {
+          "name": "Schottenring",
+          "lat": 48.216629,
+          "lon": 16.3720845,
+          "km": 11.77
+        },
+        {
+          "name": "Roßauer Lände",
+          "lat": 48.2223372,
+          "lon": 16.367594,
+          "km": 12.49
+        },
+        {
+          "name": "Friedensbrücke",
+          "lat": 48.2278811,
+          "lon": 16.3640585,
+          "km": 13.16
+        },
+        {
+          "name": "Spittelau",
+          "lat": 48.2348052,
+          "lon": 16.3586571,
+          "km": 14.02
+        },
+        {
+          "name": "Heiligenstadt",
+          "lat": 48.2481432,
+          "lon": 16.3656339,
+          "km": 15.6
+        }
+      ]
+    },
+    {
+      "id": "zuerich",
+      "quelle": "OpenStreetMap, Relation 1614327",
+      "lizenz": "ODbL 1.0, © OpenStreetMap-Mitwirkende",
+      "abgerufen": "2026-11-22",
+      "halte": [
+        {
+          "name": "Brugg AG",
+          "lat": 47.4808691,
+          "lon": 8.209399,
+          "km": 0.0
+        },
+        {
+          "name": "Turgi",
+          "lat": 47.4918797,
+          "lon": 8.2529505,
+          "km": 3.49
+        },
+        {
+          "name": "Baden",
+          "lat": 47.4764624,
+          "lon": 8.3075724,
+          "km": 7.94
+        },
+        {
+          "name": "Wettingen",
+          "lat": 47.4598643,
+          "lon": 8.3150718,
+          "km": 9.87
+        },
+        {
+          "name": "Neuenhof",
+          "lat": 47.4508618,
+          "lon": 8.3311229,
+          "km": 11.44
+        },
+        {
+          "name": "Killwangen-Spreitenbach",
+          "lat": 47.4335909,
+          "lon": 8.3542843,
+          "km": 14.03
+        },
+        {
+          "name": "Dietikon",
+          "lat": 47.4058912,
+          "lon": 8.4052552,
+          "km": 18.95
+        },
+        {
+          "name": "Glanzenberg",
+          "lat": 47.3988429,
+          "lon": 8.4203912,
+          "km": 20.33
+        },
+        {
+          "name": "Schlieren",
+          "lat": 47.3993397,
+          "lon": 8.4465027,
+          "km": 22.3
+        },
+        {
+          "name": "Zürich Altstetten",
+          "lat": 47.3916877,
+          "lon": 8.4891603,
+          "km": 25.62
+        },
+        {
+          "name": "Zürich Hardbrücke",
+          "lat": 47.3852646,
+          "lon": 8.5175174,
+          "km": 27.87
+        },
+        {
+          "name": "Zürich Hauptbahnhof (Museumstrasse)",
+          "lat": 47.3788895,
+          "lon": 8.5390843,
+          "km": 29.64
+        },
+        {
+          "name": "Zürich Stadelhofen",
+          "lat": 47.366771,
+          "lon": 8.5488292,
+          "km": 31.18
+        },
+        {
+          "name": "Stettbach",
+          "lat": 47.397188,
+          "lon": 8.5960455,
+          "km": 36.09
+        },
+        {
+          "name": "Winterthur",
+          "lat": 47.5003973,
+          "lon": 8.7236475,
+          "km": 51.04
+        },
+        {
+          "name": "Winterthur Grüze",
+          "lat": 47.4991654,
+          "lon": 8.7509389,
+          "km": 53.1
+        },
+        {
+          "name": "Winterthur Hegi",
+          "lat": 47.5015567,
+          "lon": 8.7691133,
+          "km": 54.49
+        },
+        {
+          "name": "Räterschen",
+          "lat": 47.4988091,
+          "lon": 8.7951034,
+          "km": 56.47
+        },
+        {
+          "name": "Schottikon",
+          "lat": 47.500225,
+          "lon": 8.8102481,
+          "km": 57.62
+        },
+        {
+          "name": "Elgg",
+          "lat": 47.4986734,
+          "lon": 8.8638128,
+          "km": 61.64
+        },
+        {
+          "name": "Aadorf",
+          "lat": 47.488365,
+          "lon": 8.9024091,
+          "km": 64.76
+        },
+        {
+          "name": "Guntershausen",
+          "lat": 47.4741748,
+          "lon": 8.9170469,
+          "km": 66.68
+        },
+        {
+          "name": "Eschlikon TG",
+          "lat": 47.461429,
+          "lon": 8.9581674,
+          "km": 70.09
+        },
+        {
+          "name": "Sirnach",
+          "lat": 47.4617769,
+          "lon": 8.9998141,
+          "km": 73.22
+        },
+        {
+          "name": "Wil SG",
+          "lat": 47.4621018,
+          "lon": 9.0402856,
+          "km": 76.26
+        }
+      ]
+    }
+  ]
+}
